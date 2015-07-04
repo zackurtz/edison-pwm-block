@@ -1,4 +1,5 @@
 #ifndef PWM_BLOCK_H__
+#define PWM_BLOCK_H__
 
 #include "mraa.hpp"
 
